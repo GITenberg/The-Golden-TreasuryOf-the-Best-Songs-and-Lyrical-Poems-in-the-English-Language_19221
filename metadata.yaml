@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/555
     wikipedia: http://en.wikipedia.org/wiki/Francis_Turner_Palgrave
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19221#The-Golden-TreasuryOf-the-Best-Songs-and-Lyrical-Poems-in-the-English-Language
 gutenberg_bookshelf: Poetry
 gutenberg_issued: '2006-09-09'
 gutenberg_type: Text
